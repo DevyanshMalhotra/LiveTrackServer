@@ -30,7 +30,7 @@ To install and run LiveTrack, follow these steps:
 
 To start the application, use the following command:
 ```bash
-npm start
+npx nodemon app.js
 ```
 
 Open your browser and navigate to `http://localhost:3000` to access the LiveTrack interface.
@@ -57,6 +57,5 @@ We welcome contributions to improve LiveTrack. To contribute, please follow thes
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 
