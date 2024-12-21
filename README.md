@@ -7,8 +7,7 @@ LiveTrack is a real-time tracking application designed to monitor and display th
 - Real-time location tracking
 - Interactive map display
 - User-friendly interface
-- Customizable tracking options
-- Secure and reliable data handling
+
 
 ## Installation
 
@@ -58,5 +57,6 @@ We welcome contributions to improve LiveTrack. To contribute, please follow thes
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 
